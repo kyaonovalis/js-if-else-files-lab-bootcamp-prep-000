@@ -1,9 +1,7 @@
-var index = require("./index.js")
-
-console.log(index.name)
 
 
-var name = "Joe"
+
+var name = "Susan"
 var height = "74"
 
 
